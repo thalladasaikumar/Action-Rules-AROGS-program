@@ -1,10 +1,4 @@
-Group 12 - Action Rules Extraction Project
-
-Ayanjyoti Thakuria
-Sai Kumar Thallada
-Narendra Kumar Vankayala
-Mohit Varma
-Sathyaram Venkatesan
+Action Rules Extraction Project
 
 
 Input Data:
